@@ -1,0 +1,216 @@
+.uzupelnienie
+{
+	clear: both;
+}
+
+body
+{
+	margin: 15px;
+	padding: 0;
+	background: #e2282d;
+	background-image: url(tlo2.jpg); background-attachment: fixed ;
+	color: white;
+	font-size: 80%;
+	font-family: "tahoma";
+}
+
+input[type="submit"] {
+	background: #111;
+	border: none;
+	border-radius: 5px;
+	line-height: 29px;
+	color: white;
+	cursor: pointer;
+}
+
+
+
+#naglowekPojemnik
+{
+	width: 100%;
+	height: 355px;
+	color: #000000;
+}
+
+#naglowekGora
+{
+	margin: 0 auto;
+	width: 900px;
+	height: 55px;
+	background: #78272d;
+	font-weight: bold;
+}
+
+#naglowekGoraLewy
+{
+	float: left;
+	width: 500px;
+	height: 32px;
+	font-size: 85%;
+	padding: 9px 0 0 25px;
+	color: white;
+}
+
+#naglowekGoraPrawy
+{
+	float: left;
+	width: 345px;
+	height: 32px;
+	padding: 16px 25px 0 0;
+	text-align: right;
+	font-size: 150%;
+	color: #fff;
+}
+
+#naglowekGoraPrawy ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+#naglowekGoraPrawy ul li {
+	border-top: 1px solid #fff;
+	padding: 0 10px;
+}
+
+#naglowekGoraPrawy ul li:first-child {
+	border: none;
+}
+
+#naglowekGoraPrawy ul li a {
+	color: #111;
+	line-height: 35px;
+	display: block;
+	width: 100%;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+#naglowekGoraPrawy ul li:hover {
+	background: #521415;
+	cursor: pointer;
+}
+
+#naglowekGoraPrawy ul li:hover a {
+	color: #fff;
+}
+
+
+
+#naglowekDol
+{
+	margin: 0 auto;
+	width: 900px;
+	height: 300px;
+	background: #e2282d;
+}
+
+
+
+
+#trescPojemnik
+{
+	width: 100%;
+	background: #e2282d;
+
+}
+
+#tresc
+{
+	margin: 0 auto;
+	width: 900px;
+	background: #78272d;
+}
+
+#trescMenu
+{
+	float: left;
+	width: 285px;
+	padding: 15px 5px 10px 10px;
+	font-size: 85%;
+	font-weight: bold;
+	background: #78272d;
+	
+	color: white;
+}
+
+#trescMenu ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+#trescMenu ul li {
+	border-top: 1px solid #fff;
+	padding: 0 10px;
+}
+
+#trescMenu ul li:first-child {
+	border: none;
+}
+
+#trescMenu ul li a {
+	color: white;
+	line-height: 35px;
+	display: block;
+	width: 100%;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+#trescMenu ul li:hover {
+	background: #e2282d;
+	cursor: pointer;
+}
+
+#trescMenu ul li:hover a {
+	color: #fff;
+}
+
+
+#trescGlowne
+{
+	float: left;
+	width: 550px;
+	padding: 5px 35px 0 15px;
+	line-height: 160%;
+	background: #e2282d;
+
+	color:white;
+}
+
+#stopkaPojemnik
+{
+	width: 100%;
+color:white;
+}
+
+#stopka
+{
+	margin: 0 auto;
+	width: 900px;
+	color: #000000;
+	font-size: 85%;
+	background: #78272d;
+
+color:white;
+}
+
+#stopkaLewy
+{
+	float: left;
+	width: 425px;
+	padding: 15px 0 15px 25px;
+}
+
+#stopkaPrawy
+{
+	float: left;
+	width: 425px;
+	padding: 15px 25px 15px 0;
+	text-align: right;
+}
+
+a {
+    color: white;
+}
